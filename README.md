@@ -1,2 +1,2 @@
 # firstjson
-First dedicated json file
+First dedicated json file using Python
