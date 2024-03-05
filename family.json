@@ -1,21 +1,21 @@
 {
     "family_name": "Whitehead",
-    "Last Meal Made": "Oatmeal and Green Drink",
-    "Next Meal to Make": "PB&J Sandwiches",
-    "Family Members": [
+    "last_meal_made": "Oatmeal and Green Drink",
+    "next_meal_to_make": "PB&J Sandwiches",
+    "family_members": [
         {
-            "Name": "Spencer",
-            "Age": 29,
-            "Favorite Foods": [
+            "name": "Spencer",
+            "age": 29,
+            "favorite_foods": [
                     "Sweet Potato Pancakes",
                     "Hamburgers",
                     "Fresh Berries"
             ]
         },
         {
-            "Name": "Amelia",
-            "Age": 28,
-            "Favorite Foods":[
+            "name": "Amelia",
+            "age": 28,
+            "favorite_foods":[
                 "Fresh Fruit",
                 "Japanese Curry",
                 "Anything made by Spencer"
